@@ -1,7 +1,7 @@
 # MilkdropPrependFilename
 Within the huge collections of user created Milkdrop presets, there are some preset filenames which are extremely long. This is causing problems since the default max file path length in Windows is 256 characters. Yet I wanted to document the original filename so that the original author history is maintained. So while a code comment is not the best solution, in this instance it's the simpliest way given the many thousands of preset files I'm dealing with.
 
-_Code by Nathan Williams - Concept by Jason Fletcher _
+_Code by Nathan Williams - Concept by Jason Fletcher_
 
 ### Dependencies
 Python 2.7.16 x86  
